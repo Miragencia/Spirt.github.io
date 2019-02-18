@@ -1,2 +1,2 @@
-# Spirt.github.io
-[Сайт](https://miragencia.github.io/Spirt.github.io/)
+# Цикл лабораторных работ "Проектирование ИС"
+### [Сайт](https://miragencia.github.io/Spirt.github.io/)
